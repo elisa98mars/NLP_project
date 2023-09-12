@@ -1,3 +1,3 @@
-# text_mining_project
+# What do you like in boardgames
 
-## What do you like in boardgames
+Final project for the course Text Mining and Sentiment Analysis.
