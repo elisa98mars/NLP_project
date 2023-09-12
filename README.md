@@ -6,11 +6,12 @@ The dataset used in the project can be download here: https://www.kaggle.com/dat
 
 Structure of boardgame_main:
 
-1. Dataset Preparation \\
-  1.1 Resampling \\
-  1.2 Assigning label \\
-  1.3 Cleaning text \\
+1. Dataset Preparation
+   1.1 Resampling
+   1.2 Assigning Labels
+   1.3 Cleaning Text
 
 2. Aspect Classification
+
 
 
