@@ -17,10 +17,16 @@ Structure of boardgame_main:
    - 2.1 LDA
    - 2.2 Fasttext - Gensim Library
      - fatstext_list
+     - fatstext_list2
+     - fatstext_dict
+     - fatstext_full
    - 2.3 Fasttext - fastText Library
    - 2.4 Spacy & Nearest Neighbour
 
 3. Sentiment Classification
+   - 3.1 Dataset Preparation
+   - 3.2 Word Embeddings
+   - 3.3 Initializing the Model
 
 4. Inference
 
