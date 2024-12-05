@@ -1,34 +1,13 @@
-# What do you like in boardgames
+# What do you like in boardgames - ABSA using Rulebooks and Reviews of Boardgames
 
-Final project for the course Text Mining and Sentiment Analysis.
+Thesis Project for DSE master's degree.
 
+The website used to collect the rulebooks is the following: https://en.1jour-1jeu.com/
 The dataset used in the project can be download here: https://www.kaggle.com/datasets/jvanelteren/boardgamegeek-reviews?select=bgg-15m-reviews.csv
 
 ------------------------------------------------------
 
-Structure of boardgame_main:
+Order of notebook exectuion:
 
-1. Dataset Preparation
-   - 1.1 Resampling
-   - 1.2 Assigning Labels
-   - 1.3 Cleaning Text
-
-2. Aspect Classification
-   - 2.1 LDA
-   - 2.2 Fasttext - Gensim Library
-     - fatstext_list
-     - fatstext_list2
-     - fatstext_dict
-     - fatstext_full
-   - 2.3 Fasttext - fastText Library
-   - 2.4 Spacy & Nearest Neighbour
-
-3. Sentiment Classification
-   - 3.1 Dataset Preparation
-   - 3.2 Word Embeddings
-   - 3.3 Initializing the Model
-
-4. Inference
-
-
-
+1. scraper
+2. topic_modelling
